@@ -30,7 +30,7 @@ print("random number with normalvarite:")
 a = random.normalvariate(0, 1)
 print(a)
 
-# random chice
+# random choice
 print("random choice:")
 mylist = list("ABCDEF")
 a = random.choice(mylist)
